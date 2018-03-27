@@ -1,0 +1,17 @@
+.name{
+    height: 25px;
+    width: 100%;
+    background-color: rgba(0, 0, 0, 0.1);
+    text-align: center;    
+    /* display: none; */
+}
+
+.name a{
+    text-decoration: none;
+    font-family: sans-serif;
+    color: black;
+}
+
+.name:hover{
+    display: block;
+}

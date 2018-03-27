@@ -1,0 +1,10 @@
+.backcolor{
+    background-color: rgba(0, 0, 0, 0.1);
+    /* border-radius: 20px; */
+    /* height: 180px; */
+}
+
+.box{
+    border: 10px solid transparent;
+    background-clip: padding-box;
+  }
